@@ -16,6 +16,6 @@ interface Clocks {
 
 const clock1:Clocks = {
   currentTime: new Date(),
-  name: 'hx'
+  name: 'hx',
 }
 const clock2: Clock = clock1
